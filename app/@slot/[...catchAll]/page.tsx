@@ -1,3 +1,3 @@
 export default function Home() {
-  return "Inside the page";
+  return "Inside the slot";
 }
